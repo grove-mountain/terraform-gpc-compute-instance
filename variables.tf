@@ -28,5 +28,5 @@ variable "instance_name" {
 
 variable "image" {
   description = "image to build instance from"
-  default = "debian-cloud/debian-8"
+  default = "debian-9/debian-9-tf-1-10-v20180814"
 }
